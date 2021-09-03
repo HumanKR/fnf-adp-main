@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Up.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nite up0000" x="0" y="0" width="1044" height="1070"/>
+	<SubTexture name="nite up0001" x="1044" y="0" width="1044" height="1070"/>
+	<SubTexture name="nite up0002" x="2088" y="0" width="1044" height="1070"/>
+	<SubTexture name="nite up0003" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite up0004" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite up0005" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite up0006" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite up0007" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite up0008" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite up0009" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite up0010" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite up0011" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite up0012" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite up0013" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite up0014" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite up0015" x="0" y="1070" width="1044" height="1070"/>
+</TextureAtlas>

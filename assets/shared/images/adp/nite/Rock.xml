@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rock.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nite rock0000" x="0" y="0" width="1044" height="1070"/>
+	<SubTexture name="nite rock0001" x="1044" y="0" width="1044" height="1070"/>
+	<SubTexture name="nite rock0002" x="2088" y="0" width="1044" height="1070"/>
+	<SubTexture name="nite rock0003" x="3132" y="0" width="1044" height="1070"/>
+	<SubTexture name="nite rock0004" x="4176" y="0" width="1044" height="1070"/>
+	<SubTexture name="nite rock0005" x="5220" y="0" width="1044" height="1070"/>
+	<SubTexture name="nite rock0006" x="6264" y="0" width="1044" height="1070"/>
+	<SubTexture name="nite rock0007" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0008" x="1044" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0009" x="2088" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0010" x="3132" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0011" x="4176" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0012" x="5220" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0013" x="6264" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0014" x="0" y="2140" width="1044" height="1070"/>
+	<SubTexture name="nite rock0015" x="1044" y="2140" width="1044" height="1070"/>
+	<SubTexture name="nite rock0016" x="2088" y="2140" width="1044" height="1070"/>
+	<SubTexture name="nite rock0017" x="3132" y="2140" width="1044" height="1070"/>
+	<SubTexture name="nite rock0018" x="4176" y="2140" width="1044" height="1070"/>
+	<SubTexture name="nite rock0019" x="5220" y="2140" width="1044" height="1070"/>
+	<SubTexture name="nite rock0020" x="6264" y="2140" width="1044" height="1070"/>
+	<SubTexture name="nite rock0021" x="0" y="3210" width="1044" height="1070"/>
+	<SubTexture name="nite rock0022" x="6264" y="0" width="1044" height="1070"/>
+	<SubTexture name="nite rock0023" x="1044" y="3210" width="1044" height="1070"/>
+	<SubTexture name="nite rock0024" x="2088" y="3210" width="1044" height="1070"/>
+	<SubTexture name="nite rock0025" x="2088" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0026" x="3132" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0027" x="4176" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0028" x="3132" y="3210" width="1044" height="1070"/>
+	<SubTexture name="nite rock0029" x="6264" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0030" x="0" y="2140" width="1044" height="1070"/>
+	<SubTexture name="nite rock0031" x="1044" y="2140" width="1044" height="1070"/>
+	<SubTexture name="nite rock0032" x="2088" y="2140" width="1044" height="1070"/>
+	<SubTexture name="nite rock0033" x="4176" y="3210" width="1044" height="1070"/>
+	<SubTexture name="nite rock0034" x="5220" y="3210" width="1044" height="1070"/>
+	<SubTexture name="nite rock0035" x="6264" y="3210" width="1044" height="1070"/>
+	<SubTexture name="nite rock0036" x="6264" y="2140" width="1044" height="1070"/>
+	<SubTexture name="nite rock0037" x="0" y="4280" width="1044" height="1070"/>
+	<SubTexture name="nite rock0038" x="1044" y="4280" width="1044" height="1070"/>
+	<SubTexture name="nite rock0039" x="0" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0040" x="1044" y="1070" width="1044" height="1070"/>
+	<SubTexture name="nite rock0041" x="0" y="2140" width="1044" height="1070"/>
+</TextureAtlas>

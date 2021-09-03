@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ammo_change.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ammo change0000" x="0" y="0" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0001" x="0" y="0" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0002" x="1272" y="0" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0003" x="1272" y="0" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0004" x="2544" y="0" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0005" x="3816" y="0" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0006" x="5088" y="0" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0007" x="6360" y="0" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0008" x="0" y="1045" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0009" x="1272" y="1045" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0010" x="2544" y="1045" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0011" x="3816" y="1045" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0012" x="3816" y="1045" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0013" x="5088" y="1045" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0014" x="6360" y="1045" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0015" x="0" y="2090" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0016" x="1272" y="2090" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0017" x="2544" y="2090" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0018" x="3816" y="2090" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0019" x="5088" y="2090" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0020" x="6360" y="2090" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0021" x="6360" y="2090" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0022" x="0" y="3135" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0023" x="1272" y="3135" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0024" x="2544" y="3135" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0025" x="3816" y="3135" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0026" x="5088" y="3135" width="1272" height="1047"/>
+	<SubTexture name="ammo change0027" x="6360" y="3135" width="1272" height="1047"/>
+	<SubTexture name="ammo change0028" x="0" y="4182" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0029" x="1272" y="4182" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0030" x="1272" y="4182" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0031" x="2544" y="4182" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0032" x="2544" y="4182" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0033" x="3816" y="4182" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+	<SubTexture name="ammo change0034" x="3816" y="4182" width="1272" height="1045" frameX="0" frameY="-2" frameWidth="1272" frameHeight="1047"/>
+</TextureAtlas>

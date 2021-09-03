@@ -1,0 +1,9 @@
+This file just some credit for i using some opensources.
+Maybe if i something missed in here, tell me what i missed to write.
+Actually, I'm ashamed of myself for using a lot of opensource because I'm not good at it.
+
+KadeDeveloper: some tricky mod code, kade engine
+bbpanzu: endingstate code, some code about like... load dialogue2 file u know, cool swag tutorial video
+SunSpirit(or Zeexel? Lumitic?): some custom note code
+srPerez: some charting state code about ui
+GWebDev: videocode but... actually I deciede to dont use video cutscene later lol

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Left.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nite left0000" x="0" y="0" width="1044" height="1044"/>
+	<SubTexture name="nite left0001" x="1044" y="0" width="1044" height="1044"/>
+	<SubTexture name="nite left0002" x="2088" y="0" width="1044" height="1044"/>
+	<SubTexture name="nite left0003" x="0" y="1044" width="1044" height="1044"/>
+	<SubTexture name="nite left0004" x="0" y="1044" width="1044" height="1044"/>
+	<SubTexture name="nite left0005" x="0" y="1044" width="1044" height="1044"/>
+	<SubTexture name="nite left0006" x="0" y="1044" width="1044" height="1044"/>
+	<SubTexture name="nite left0007" x="0" y="1044" width="1044" height="1044"/>
+	<SubTexture name="nite left0008" x="0" y="1044" width="1044" height="1044"/>
+	<SubTexture name="nite left0009" x="0" y="1044" width="1044" height="1044"/>
+	<SubTexture name="nite left0010" x="0" y="1044" width="1044" height="1044"/>
+	<SubTexture name="nite left0011" x="0" y="1044" width="1044" height="1044"/>
+	<SubTexture name="nite left0012" x="0" y="1044" width="1044" height="1044"/>
+	<SubTexture name="nite left0013" x="0" y="1044" width="1044" height="1044"/>
+	<SubTexture name="nite left0014" x="0" y="1044" width="1044" height="1044"/>
+	<SubTexture name="nite left0015" x="0" y="1044" width="1044" height="1044"/>
+</TextureAtlas>

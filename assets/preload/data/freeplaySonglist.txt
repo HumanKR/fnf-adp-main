@@ -1,0 +1,4 @@
+Encounter:belem:1
+Enhanced:ammo:1
+Evolution:nite:1
+Evolution-old:nite-old:1

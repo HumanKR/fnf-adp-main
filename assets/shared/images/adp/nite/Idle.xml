@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Idle.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nite idle 0000" x="100" y="100" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0001" x="1144" y="100" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0002" x="2188" y="100" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0003" x="3232" y="100" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0004" x="4276" y="100" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0005" x="5320" y="100" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0006" x="6364" y="100" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0007" x="100" y="1144" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0008" x="1144" y="1144" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0009" x="2188" y="1144" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0010" x="3232" y="1144" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0011" x="4276" y="1144" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0012" x="5320" y="1144" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0013" x="6364" y="1144" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0014" x="100" y="2188" width="1044" height="1044"/>
+	<SubTexture name="nite idle 0015" x="1144" y="2188" width="1044" height="1044"/>
+</TextureAtlas>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ammo_asset.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ammo down0000" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0001" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0002" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0003" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0004" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0005" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0006" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0007" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0008" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0009" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0010" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0011" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0012" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0013" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0014" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo down0015" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo idle0000" x="1218" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo idle0001" x="2436" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo idle0002" x="3654" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo idle0003" x="4872" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo idle0004" x="6090" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo idle0005" x="0" y="931" width="1218" height="931"/>
+	<SubTexture name="ammo idle0006" x="1218" y="931" width="1218" height="931"/>
+	<SubTexture name="ammo idle0007" x="2436" y="931" width="1218" height="931"/>
+	<SubTexture name="ammo idle0008" x="3654" y="931" width="1218" height="931"/>
+	<SubTexture name="ammo idle0009" x="4872" y="931" width="1218" height="931"/>
+	<SubTexture name="ammo idle0010" x="6090" y="931" width="1218" height="931"/>
+	<SubTexture name="ammo idle0011" x="0" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo idle0012" x="1218" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo idle0013" x="1218" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo idle0014" x="1218" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo idle0015" x="1218" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo left0000" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0001" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0002" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0003" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0004" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0005" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0006" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0007" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0008" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0009" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0010" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0011" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0012" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0013" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0014" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo left0015" x="0" y="0" width="1218" height="931"/>
+	<SubTexture name="ammo right0000" x="2436" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0001" x="3654" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0002" x="4872" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0003" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0004" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0005" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0006" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0007" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0008" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0009" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0010" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0011" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0012" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0013" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0014" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo right0015" x="6090" y="1862" width="1218" height="931"/>
+	<SubTexture name="ammo up0000" x="0" y="2793" width="1218" height="931" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0001" x="1218" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0002" x="2436" y="2793" width="1218" height="933"/>
+	<SubTexture name="ammo up0003" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0004" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0005" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0006" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0007" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0008" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0009" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0010" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0011" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0012" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0013" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0014" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+	<SubTexture name="ammo up0015" x="3654" y="2793" width="1218" height="932" frameX="0" frameY="0" frameWidth="1218" frameHeight="933"/>
+</TextureAtlas>

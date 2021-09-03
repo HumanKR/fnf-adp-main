@@ -1,0 +1,5 @@
+normal
+pixel
+death
+belem
+ammo
